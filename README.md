@@ -6,9 +6,11 @@ The slider task
 
 ### Installing
 
-To install all the dependencies from package.json, type in terminal 'npm install'
+Clone this repository via 'git clone URL' and open the folder in editor.
+
+To install all the dependencies from package.json, type in terminal 'npm install'.
 
 ### Getting started
 
-To run a project in development mode, enter 'npm start' or 'yarn start'
+To run a project in development mode, enter 'npm start' <br/>
 [http://localhost:3000] will be opened in browser to view it.
